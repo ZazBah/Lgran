@@ -1,0 +1,72 @@
+/*HEAD-S*/
+.section-header{
+    background-image: url("../image/background1.png");
+    background-position: center;
+}
+.section-about{
+    background-image: url('../image/background2.png');
+    background-position: center;
+}
+.section-quality{
+    background-image: url('../image/background3.png');
+    background-position: center;
+}
+.section-gallery{
+    background-image: url('../image/background1.png');
+    background-position: center;
+}
+.section-book{
+    background-image: url('../image/background5.png');
+    background-position: center;
+}
+/*HEAD-E*/
+/*BODY-S*/
+
+/*BODY-E*/
+/*FOOTER-S*/
+
+/*FOOTER-E*/
+
+@media only screen and (min-width: 320px){
+    
+
+}
+
+@media only screen and (min-width: 360px){
+
+
+}
+
+@media only screen and (min-width: 375px){
+    
+
+}
+
+@media only screen and (min-width: 411px){
+    
+}
+
+@media only screen and (min-width: 414px){
+
+
+}
+
+@media only screen and (min-width: 540px){
+    
+
+}
+
+@media only screen and (min-width: 768px){
+    
+
+}
+
+@media only screen and (min-width: 1024px){
+    
+
+}
+
+@media only screen and (min-width: 1025px){
+    
+
+}

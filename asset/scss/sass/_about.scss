@@ -1,0 +1,30 @@
+.section-about{
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+    h1{
+        @include heading1;
+        text-align: left;
+
+        i{
+            color: var(--color-orange);
+        }
+        span{
+            font-family: var(--font-fancy);
+        }
+    }
+    p{
+        @include pera;
+        text-align: left;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    h2{
+        @include heading2;
+        text-align: left;
+
+        span{
+            color: var(--color-orange);
+        }
+    }
+}
