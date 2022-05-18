@@ -1,8 +1,8 @@
-@import 'sass/root';
 @import 'sass/reset';
-
-@import 'sass/header';
+@import 'sass/root';
+@import 'sass/nav';
 @import 'sass/about';
+@import 'sass/header';
 @import 'sass/quality';
 @import 'sass/gallery';
 @import 'sass/book';
@@ -10,5 +10,8 @@
 @import 'sass/linda';
 @import 'sass/enjoy';
 @import 'sass/footer';
+
+
+
 
 @import 'sass/responsive';

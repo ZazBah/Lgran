@@ -1,5 +1,8 @@
 @media only screen and (min-width: 280px){
-    
+    .sticky{
+        width: 100% !important;
+        margin-left: 0%;
+    }
 
 }
 @media only screen and (min-width: 320px){
@@ -47,6 +50,10 @@
 
 }
 @media only screen and (min-width: 768px){
+    .sticky{
+        width: 90% !important;
+        margin-left: 5%;
+    }
     .section-header{
         height: 550px;
     }
@@ -79,8 +86,9 @@
 
 }
 @media only screen and (min-width: 1025px){
+
     .section-header{
-        height: 750px;
+        height: 850px;
     }
     .section-about{
         h1{

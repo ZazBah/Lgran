@@ -10,7 +10,7 @@ section1.waypoint(function(){
 
 },
 {
-    offset: '0px'
+    offset: '90px'
 })
 
 
